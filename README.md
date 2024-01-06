@@ -1,7 +1,6 @@
-﻿# Highlight-Searched-Text
-https://umar-ashraf09.github.io/Highlight-Searched-Text/
+﻿# Highlight Searched Text
 
-# Highlight Searched Text
+[Highlight Searched Text](https://umar-ashraf09.github.io/Highlight-Searched-Text/)
 
 A simple web application that allows users to highlight searched text within a paragraph. The project is built using HTML, CSS, and JavaScript.
 
@@ -12,11 +11,11 @@ A simple web application that allows users to highlight searched text within a p
 - [Features](#features)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Highlight Searched Text](https://github.com/Umar-Ashraf09/Highlight-Searched-Text/assets/92431008/e59d8b3d-0cc5-4b41-b46a-78bf95c5bd85)
+
 
 ## Technologies Used
 
@@ -32,10 +31,9 @@ A simple web application that allows users to highlight searched text within a p
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/highlight-searched-text.git`
-2. Open the `index.html` file in your web browser.
-3. Enter the text you want to search for in the input field.
-4. Click the "Search" button to see the highlighted occurrences within the paragraph.
+1. Open the [Highlight Searched Text](https://umar-ashraf09.github.io/Highlight-Searched-Text/) web page.
+2. Enter the text you want to search for in the input field.
+3. Click the "Search" button to see the highlighted occurrences within the paragraph.
 
 Feel free to customize the application or integrate it into your projects as needed.
 
@@ -48,7 +46,3 @@ If you'd like to contribute to this project, please follow these steps:
 3. Commit your changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
