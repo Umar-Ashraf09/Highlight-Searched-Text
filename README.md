@@ -14,7 +14,7 @@ A simple web application that allows users to highlight searched text within a p
 
 ## Preview
 
-![Highlight Searched Text](https://github.com/Umar-Ashraf09/Highlight-Searched-Text/assets/92431008/e59d8b3d-0cc5-4b41-b46a-78bf95c5bd85)
+![Highlight Searched Text](https://github.com/Umar-Ashraf09/Highlight-Searched-Text/assets/92431008/5573427c-f12b-442d-b7d2-5a4aed540a4a)
 
 
 ## Technologies Used
